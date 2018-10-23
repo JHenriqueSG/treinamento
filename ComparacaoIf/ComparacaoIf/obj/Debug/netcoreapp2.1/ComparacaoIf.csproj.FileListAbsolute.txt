@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\ComparacaoIf\ComparacaoIf\bin\Debug\netcoreapp2.1\ComparacaoIf.deps.json
+C:\Users\HP\source\repos\ComparacaoIf\ComparacaoIf\bin\Debug\netcoreapp2.1\ComparacaoIf.runtimeconfig.json
+C:\Users\HP\source\repos\ComparacaoIf\ComparacaoIf\bin\Debug\netcoreapp2.1\ComparacaoIf.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ComparacaoIf\ComparacaoIf\bin\Debug\netcoreapp2.1\ComparacaoIf.dll
+C:\Users\HP\source\repos\ComparacaoIf\ComparacaoIf\bin\Debug\netcoreapp2.1\ComparacaoIf.pdb
+C:\Users\HP\source\repos\ComparacaoIf\ComparacaoIf\obj\Debug\netcoreapp2.1\ComparacaoIf.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ComparacaoIf\ComparacaoIf\obj\Debug\netcoreapp2.1\ComparacaoIf.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ComparacaoIf\ComparacaoIf\obj\Debug\netcoreapp2.1\ComparacaoIf.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ComparacaoIf\ComparacaoIf\obj\Debug\netcoreapp2.1\ComparacaoIf.AssemblyInfo.cs
+C:\Users\HP\source\repos\ComparacaoIf\ComparacaoIf\obj\Debug\netcoreapp2.1\ComparacaoIf.dll
+C:\Users\HP\source\repos\ComparacaoIf\ComparacaoIf\obj\Debug\netcoreapp2.1\ComparacaoIf.pdb
