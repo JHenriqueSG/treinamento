@@ -1,0 +1,11 @@
+C:\Users\HP\source\repos\ExercitandoALogica\ExercitandoALogica\bin\Debug\netcoreapp2.1\ExercitandoALogica.deps.json
+C:\Users\HP\source\repos\ExercitandoALogica\ExercitandoALogica\bin\Debug\netcoreapp2.1\ExercitandoALogica.runtimeconfig.json
+C:\Users\HP\source\repos\ExercitandoALogica\ExercitandoALogica\bin\Debug\netcoreapp2.1\ExercitandoALogica.runtimeconfig.dev.json
+C:\Users\HP\source\repos\ExercitandoALogica\ExercitandoALogica\bin\Debug\netcoreapp2.1\ExercitandoALogica.dll
+C:\Users\HP\source\repos\ExercitandoALogica\ExercitandoALogica\bin\Debug\netcoreapp2.1\ExercitandoALogica.pdb
+C:\Users\HP\source\repos\ExercitandoALogica\ExercitandoALogica\obj\Debug\netcoreapp2.1\ExercitandoALogica.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\ExercitandoALogica\ExercitandoALogica\obj\Debug\netcoreapp2.1\ExercitandoALogica.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\ExercitandoALogica\ExercitandoALogica\obj\Debug\netcoreapp2.1\ExercitandoALogica.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\ExercitandoALogica\ExercitandoALogica\obj\Debug\netcoreapp2.1\ExercitandoALogica.AssemblyInfo.cs
+C:\Users\HP\source\repos\ExercitandoALogica\ExercitandoALogica\obj\Debug\netcoreapp2.1\ExercitandoALogica.dll
+C:\Users\HP\source\repos\ExercitandoALogica\ExercitandoALogica\obj\Debug\netcoreapp2.1\ExercitandoALogica.pdb
